@@ -22,11 +22,5 @@ Cold email generator for services company using groq, langchain and streamlit. I
    
 3. Run the streamlit app:
    ```commandline
-   streamlit run app/main.py
+   streamlit run main.py
    ```
-   
-
-Copyright (C) Codebasics Inc. All rights reserved.
-
-**Additional Terms:**
-This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
